@@ -1,0 +1,33 @@
+.header {
+    padding: 10px;
+    background-color: #C7C5B3;
+    color: #000000;
+    display: flex;
+}
+
+.header-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-menu a{
+    margin-right: 10px;
+    font-size: 20px;
+    
+}
+
+.header-menu a:hover{
+    margin-right: 10px;
+    background-color: rgba(131, 131, 131, 0.614);
+    height: 30px;
+}
+
+.header-logo {
+    margin-right: 1500px;
+}
+
+.header-logo img {
+    height: 120px;
+    
+}
